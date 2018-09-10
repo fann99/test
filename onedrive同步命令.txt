@@ -1,0 +1,10 @@
+右键开始菜单，管理员运行命令提示符
+来源：E:\_我的文献库(名字不能有空格)
+D:\onedrive\【新建的文件夹名】
+
+mklink /d D:\onedrive\lenovo我的文献库 E:\_我的文献库
+
+然后把快捷方式拖进mail3子文件夹
+
+carbon上onedrive在:
+mklink /D C:\Users\fanns\OneDrive\carbonE7suny C:\Edisk\7suny
